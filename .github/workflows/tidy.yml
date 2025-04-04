@@ -57,9 +57,9 @@ jobs:
         if: env.needs_update == 'true'
         run: |
           # 拉取 v2fly/v2ray-core v5 的最新版本
+          go clean -modcache
           go get github.com/v2fly/v2ray-core/v5@${{ env.LATEST_TAG_SHA }}
-          go get -u
-          go get gvisor.dev/gvisor@go
+          go get gvisor.dev/gvisor@latest
           go mod tidy -v
           git diff
 
