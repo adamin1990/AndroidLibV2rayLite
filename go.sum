@@ -395,8 +395,8 @@ github.com/prometheus/procfs v0.3.0/go.mod h1:lV6e/gmhEcM9IjHGsFOCxxuZ+z1YqCvr4O
 github.com/prometheus/tsdb v0.7.1/go.mod h1:qhTCs0VvXwvX/y3TZrWD7rabWM+ijKTux40TwIPHuXU=
 github.com/quic-go/qpack v0.5.1 h1:giqksBPnT/HDtZ6VhtFKgoLOWmlyo9Ei6u9PqzIMbhI=
 github.com/quic-go/qpack v0.5.1/go.mod h1:+PC4XFrEskIVkcLzpEkbLqq1uCoxPhQuvK5rH1ZgaEg=
-github.com/quic-go/quic-go v0.52.0 h1:/SlHrCRElyaU6MaEPKqKr9z83sBg2v4FLLvWM+Z47pA=
-github.com/quic-go/quic-go v0.52.0/go.mod h1:MFlGGpcpJqRAfmYi6NC2cptDPSxRWTOGNuP4wqrWmzQ=
+github.com/quic-go/quic-go v0.53.0 h1:QHX46sISpG2S03dPeZBgVIZp8dGagIaiu2FiVYvpCZI=
+github.com/quic-go/quic-go v0.53.0/go.mod h1:e68ZEaCdyviluZmy44P6Iey98v/Wfz6HCjQEm+l8zTY=
 github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/refraction-networking/utls v1.7.3 h1:L0WRhHY7Oq1T0zkdzVZMR6zWZv+sXbHB9zcuvsAEqCo=
 github.com/refraction-networking/utls v1.7.3/go.mod h1:TUhh27RHMGtQvjQq+RyO11P6ZNQNBb3N0v7wsEjKAIQ=
@@ -473,8 +473,8 @@ github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e/go.mod h1:5t19P9LBIrNamL6AcMQOncg/r10y3Pc01AbHeMhwlpU=
 github.com/v2fly/struc v0.0.0-20241227015403-8e8fa1badfd6 h1:Qea2jW7g1hvQ9TkYq3aT2h0NDWjPQHtvDfmKXoWgJ9E=
 github.com/v2fly/struc v0.0.0-20241227015403-8e8fa1badfd6/go.mod h1:a/FYYQz8bW7wh2jmI+DVsbVYwLkgmgpml+GrJwV+eIo=
-github.com/v2fly/v2ray-core/v5 v5.34.0 h1:clZ//yjrD9tBHxBOASGa7xETevEgsVKsZvb9/WNzGZM=
-github.com/v2fly/v2ray-core/v5 v5.34.0/go.mod h1:AFaUaPPL8Sykt2jIX/6b2c4am1a0Y65Ji3zKLndAcO4=
+github.com/v2fly/v2ray-core/v5 v5.35.0 h1:gbORA4jq1rHdPByo/ZFmiP7238Y379A8T3W3x30D79c=
+github.com/v2fly/v2ray-core/v5 v5.35.0/go.mod h1:dSvLdewvWu+eWLIiLOtbm10xEYdGDqZsnzstDipuAuU=
 github.com/vincent-petithory/dataurl v1.0.0 h1:cXw+kPto8NLuJtlMsI152irrVw9fRDX8AbShPRpg2CI=
 github.com/vincent-petithory/dataurl v1.0.0/go.mod h1:FHafX5vmDzyP+1CQATJn7WFKc9CvnvxyvZy6I1MrG/U=
 github.com/wlynxg/anet v0.0.3/go.mod h1:eay5PRQr7fIVAMbTbchTnO9gG65Hg/uYGdc7mguHxoA=
