@@ -3,7 +3,7 @@ module github.com/2dust/AndroidLibV2rayLite
 go 1.24.1
 
 require (
-	github.com/v2fly/v2ray-core/v5 v5.39.0
+	github.com/v2fly/v2ray-core/v5 v5.40.0
 	github.com/xtls/xray-core v1.8.4
 	golang.org/x/mobile v0.0.0-20250305212854-3a7bc9f8a4de
 	golang.org/x/sys v0.36.0
@@ -50,7 +50,7 @@ require (
 	github.com/pires/go-proxyproto v0.8.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
-	github.com/quic-go/quic-go v0.54.0 // indirect
+	github.com/quic-go/quic-go v0.54.1 // indirect
 	github.com/refraction-networking/utls v1.8.0 // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/rs/cors v1.7.0 // indirect
@@ -79,7 +79,7 @@ require (
 	golang.org/x/tools v0.36.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250707201910-8d1bb00bc6a7 // indirect
 	google.golang.org/grpc v1.75.1 // indirect
-	google.golang.org/protobuf v1.36.9 // indirect
+	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gvisor.dev/gvisor v0.0.0-20231020174304-b8a429915ff1 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
